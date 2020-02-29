@@ -1,32 +1,77 @@
-<mxfile host="www.draw.io" modified="2020-02-29T07:45:21.025Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3719.400 QQBrowser/10.5.3715.400" etag="7EVe2jakCaOFiGTHnxzi" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-02-29T07:51:00.561Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3719.400 QQBrowser/10.5.3715.400" etag="7r2X5EY4BF9N3Cqy-ZWm" version="12.7.9" type="github">
   <diagram id="auExvunnDKqUpxhm3QKQ" name="第 1 页">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qi-KX9kvTqXT_LseuW6y-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="70" width="90" height="440" as="geometry" />
+          <mxGeometry x="240" y="190" width="90" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qi-KX9kvTqXT_LseuW6y-13" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="90" height="50" as="geometry" />
+          <mxGeometry x="240" y="280" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qi-KX9kvTqXT_LseuW6y-14" value="short" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="90" height="50" as="geometry" />
+          <mxGeometry x="240" y="330" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qi-KX9kvTqXT_LseuW6y-15" value="reference" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="260" width="90" height="50" as="geometry" />
+          <mxGeometry x="240" y="380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qi-KX9kvTqXT_LseuW6y-16" value="double" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="90" height="50" as="geometry" />
+          <mxGeometry x="240" y="430" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qi-KX9kvTqXT_LseuW6y-17" value="float" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="360" width="90" height="50" as="geometry" />
+          <mxGeometry x="240" y="480" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qi-KX9kvTqXT_LseuW6y-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="90" height="60" as="geometry" />
+          <mxGeometry x="240" y="530" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qi-KX9kvTqXT_LseuW6y-19" value="Java栈本地变量表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="70" width="90" height="90" as="geometry" />
+          <mxGeometry x="240" y="190" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="520" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="520" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-23" value="句柄池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="qi-KX9kvTqXT_LseuW6y-24" target="qi-KX9kvTqXT_LseuW6y-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-24" value="到对象实例数据的指针" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="qi-KX9kvTqXT_LseuW6y-25" target="qi-KX9kvTqXT_LseuW6y-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-25" value="到对象类型数据的指针" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-26" value="" style="endArrow=none;dashed=1;html=1;fontSize=14;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755" y="370" as="sourcePoint" />
+            <mxPoint x="755" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-28" value="Java堆" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-29" value="实例池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-30" value="对象实例数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-31" value="方法区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qi-KX9kvTqXT_LseuW6y-32" value="对象类型数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="750" y="505" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
