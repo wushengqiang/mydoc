@@ -1,1 +1,28 @@
-<mxfile host="www.draw.io" modified="2020-02-28T09:12:42.947Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3719.400 QQBrowser/10.5.3715.400" version="12.7.9" etag="yMxRRZ26fYs1Sxv9PUsa" type="github"><diagram id="HluqLYxcdRD7QMMPCwEw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-29T07:28:15.315Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3719.400 QQBrowser/10.5.3715.400" etag="3nIqo5uTA4z5BV8ANjQ5" version="12.7.9" type="github">
+  <diagram id="HluqLYxcdRD7QMMPCwEw" name="第 1 页">
+    <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HEKXoFtJdLn5-ykSJImd-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKXoFtJdLn5-ykSJImd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="220" width="375" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKXoFtJdLn5-ykSJImd-3" value="存储类实例各个字段的内容,包括从父类继承下来的和类自身的字段内容，java虚拟将相同宽度的字段分配到一起" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKXoFtJdLn5-ykSJImd-4" value="占位符部分,并不是必然存在的" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKXoFtJdLn5-ykSJImd-5" value="对象头信息存储自身运行时的数据,hash码,GC分代年龄,锁状态等&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKXoFtJdLn5-ykSJImd-6" value="对象头的另一部存储类型指针,执行类的元数据,虚拟机通过该指针确定对象是哪个类的实例&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="350" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
