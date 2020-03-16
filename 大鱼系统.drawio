@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T14:00:10.976Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="kgGdh4Fhs0QVAO1p8nOa" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T14:04:59.495Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="XmzPnXgz-aFxiqf_3kpi" version="12.8.5" type="github">
   <diagram id="nYjnb1gJ_s1BvtdNdWJE" name="第 1 页">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,14 +22,17 @@
         <mxCell id="IgNf1-hUJxuoTdSNulPO-7" value="租户系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="190" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IgNf1-hUJxuoTdSNulPO-8" value="管理员系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IgNf1-hUJxuoTdSNulPO-8" value="管理员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="230" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IgNf1-hUJxuoTdSNulPO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IgNf1-hUJxuoTdSNulPO-9" value="租户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="310" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IgNf1-hUJxuoTdSNulPO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="400" width="185" height="60" as="geometry" />
+        <mxCell id="IgNf1-hUJxuoTdSNulPO-10" value="系统功能列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="390" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgNf1-hUJxuoTdSNulPO-11" value="权限管理列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="470" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
