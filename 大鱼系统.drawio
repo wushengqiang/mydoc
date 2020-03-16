@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T13:56:21.368Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="r3Hem8cPxTJfq-67ZgCb" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T13:56:52.479Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="x9xWBpaykH-pgV2pRfSH" version="12.8.5" type="github">
   <diagram id="nYjnb1gJ_s1BvtdNdWJE" name="第 1 页">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="IgNf1-hUJxuoTdSNulPO-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;大鱼系统&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="130" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IgNf1-hUJxuoTdSNulPO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="280" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IgNf1-hUJxuoTdSNulPO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="180" width="320" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
