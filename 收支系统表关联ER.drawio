@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-27T04:24:16.096Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3719.400 QQBrowser/10.5.3715.400" etag="MM9h8kNCTvrbjiZtMPew" version="12.9.3" type="github">
+<mxfile host="www.draw.io" modified="2020-03-27T08:11:17.806Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3719.400 QQBrowser/10.5.3715.400" etag="czTGjDumLFH8EclBV0uD" version="12.9.3" type="github">
   <diagram id="3PR3WLRsA2KuWyEWOmRE" name="第 1 页">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,15 @@
           <mxGeometry y="52" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3hrCK04BRxJN-e6NvCsL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hrCK04BRxJN-e6NvCsL-20" target="3hrCK04BRxJN-e6NvCsL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hrCK04BRxJN-e6NvCsL-35" value="t_e_menu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="3hrCK04BRxJN-e6NvCsL-36" value="menu_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="3hrCK04BRxJN-e6NvCsL-35">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3hrCK04BRxJN-e6NvCsL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hrCK04BRxJN-e6NvCsL-28" target="3hrCK04BRxJN-e6NvCsL-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
