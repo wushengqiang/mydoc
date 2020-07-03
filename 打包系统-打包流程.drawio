@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-03T03:38:55.849Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="a6RsyXZqH314TTJh58ei" version="13.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-03T03:47:09.386Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="dx6xtHj-h7stH8PySjX5" version="13.3.7" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,16 +8,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQJTtoD-kn7Ip7f_RlKU-1" value="登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="450" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="155" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQJTtoD-kn7Ip7f_RlKU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQJTtoD-kn7Ip7f_RlKU-2" target="PQJTtoD-kn7Ip7f_RlKU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQJTtoD-kn7Ip7f_RlKU-2" value="选择数据源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="395" y="140" width="210" height="50" as="geometry" />
+          <mxGeometry x="100" y="150" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJTtoD-kn7Ip7f_RlKU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQJTtoD-kn7Ip7f_RlKU-4" target="PQJTtoD-kn7Ip7f_RlKU-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQJTtoD-kn7Ip7f_RlKU-4" value="游戏管理" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="395" y="240" width="210" height="50" as="geometry" />
+          <mxGeometry x="100" y="250" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJTtoD-kn7Ip7f_RlKU-7" value="创建游戏" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
