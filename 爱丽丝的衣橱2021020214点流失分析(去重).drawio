@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T04:30:49.989Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="qNVLUTk3pLUa9lbxkNid" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T06:13:19.980Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="cy6qMwZy8pukb3eJglj5" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFlTLDRlPj5CC-1BCEmD-18" target="dFlTLDRlPj5CC-1BCEmD-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-18" value="聚合层开始登陆&lt;br&gt;总数:3901" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-18" value="聚合层开始登陆&lt;br&gt;总数:2893" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="530" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFlTLDRlPj5CC-1BCEmD-21" target="dFlTLDRlPj5CC-1BCEmD-23">
@@ -67,16 +67,16 @@
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFlTLDRlPj5CC-1BCEmD-21" target="dFlTLDRlPj5CC-1BCEmD-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-21" value="聚合层登陆发起网络请求&lt;br&gt;总数:3885" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-21" value="聚合层登陆发起网络请求&lt;br&gt;总数:2831" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="620" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFlTLDRlPj5CC-1BCEmD-23" target="dFlTLDRlPj5CC-1BCEmD-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-23" value="聚合层登陆成功&lt;br&gt;总数:3874" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-23" value="聚合层登陆成功&lt;br&gt;总数:2821" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="710" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-24" value="聚合层登陆失败&lt;br&gt;总数:17" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-24" value="聚合层登陆失败&lt;br&gt;总数:7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="475" y="710" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFlTLDRlPj5CC-1BCEmD-27" target="dFlTLDRlPj5CC-1BCEmD-28">
@@ -85,19 +85,19 @@
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFlTLDRlPj5CC-1BCEmD-27" target="dFlTLDRlPj5CC-1BCEmD-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-27" value="客户端向游戏发起登陆请求&lt;br&gt;总数:3872" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-27" value="客户端向游戏发起登陆请求&lt;br&gt;总数:2824" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="800" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-28" value="成功进入游戏&lt;br&gt;总数:3821" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-28" value="成功进入游戏&lt;br&gt;总数:2763" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="890" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-29" value="客户端上报进入游戏失败&lt;br&gt;总数:5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-29" value="客户端上报进入游戏失败&lt;br&gt;总数:2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="475" y="890" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="820" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-31" value="游戏客户端进入游戏,流失次数:46&lt;br&gt;流失率:1%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-31" value="游戏客户端进入游戏,流失次数:61&lt;br&gt;流失率:2.1%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="840" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-32" value="总数大于3104,是因为初始化失败之后,又重新进行了初始化操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -127,7 +127,7 @@
         <mxCell id="dFlTLDRlPj5CC-1BCEmD-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="560" width="20" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="dFlTLDRlPj5CC-1BCEmD-41" value="聚合层登陆&lt;br&gt;实际流失数:27&lt;br&gt;实际流失率:0.6%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFlTLDRlPj5CC-1BCEmD-41" value="聚合层登陆&lt;br&gt;实际流失数:72&lt;br&gt;实际流失率:2.4%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="610" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
