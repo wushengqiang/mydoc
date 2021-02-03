@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T12:25:22.875Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="ty_JC7OYSbuNjE3JuRqj" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T03:22:28.655Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="P_wirPmV-TryobGL7m90" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,34 +8,135 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cDy8AX9yw4xQvKXLvTY8-0" value="开始初始化&lt;br&gt;总数:6559" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="60" width="150" height="60" as="geometry" />
+          <mxGeometry x="380" y="80" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDy8AX9yw4xQvKXLvTY8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-1" target="cDy8AX9yw4xQvKXLvTY8-5">
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-1" target="cDy8AX9yw4xQvKXLvTY8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-1" target="cDy8AX9yw4xQvKXLvTY8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-1" target="cDy8AX9yw4xQvKXLvTY8-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cDy8AX9yw4xQvKXLvTY8-1" value="初始化发起网络请求&lt;br&gt;总数:6555" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="160" width="150" height="60" as="geometry" />
+          <mxGeometry x="380" y="180" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDy8AX9yw4xQvKXLvTY8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-5" target="cDy8AX9yw4xQvKXLvTY8-7">
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-5" target="cDy8AX9yw4xQvKXLvTY8-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cDy8AX9yw4xQvKXLvTY8-5" value="聚合层服务器接收到初始化请求&lt;br&gt;总数:5876" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="260" width="150" height="60" as="geometry" />
+          <mxGeometry x="584" y="180" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDy8AX9yw4xQvKXLvTY8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-7" target="cDy8AX9yw4xQvKXLvTY8-8">
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-7" target="cDy8AX9yw4xQvKXLvTY8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-7" target="cDy8AX9yw4xQvKXLvTY8-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cDy8AX9yw4xQvKXLvTY8-7" value="初始化成功&lt;br&gt;总数:5706" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="360" width="150" height="60" as="geometry" />
+          <mxGeometry x="380" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-8" target="cDy8AX9yw4xQvKXLvTY8-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cDy8AX9yw4xQvKXLvTY8-8" value="初始化失败&lt;br&gt;总数:798" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="460" width="150" height="60" as="geometry" />
+          <mxGeometry x="216.87" y="240" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDy8AX9yw4xQvKXLvTY8-15" value="请求不可达数量:679,流失率:10%" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="356" y="210" width="200" height="60" as="geometry" />
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-25" value="日志上报总数:6504" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="223.74" y="330" width="116.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDy8AX9yw4xQvKXLvTY8-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="180" width="50" height="120" as="geometry" />
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-53" value="&lt;span style=&quot;text-align: left&quot;&gt;请求不可达数量:679,流失率:10%&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="599" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-55" value="&lt;span&gt;客户端打点上报:损失51个数据,可能是网络问题上报失败,或者是玩家杀死进程无法上报&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="220" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="200" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-59" target="cDy8AX9yw4xQvKXLvTY8-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-59" target="cDy8AX9yw4xQvKXLvTY8-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-59" value="渠道sdk服务器接收到的注册+登陆数&lt;br&gt;注册:2130&lt;br&gt;登陆:4248" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="509" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-62" target="cDy8AX9yw4xQvKXLvTY8-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-62" value="渠道登录失败&lt;br&gt;总数:362" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="609" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-63" target="cDy8AX9yw4xQvKXLvTY8-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-63" value="渠道登陆成功&lt;br&gt;总数:5317" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="609" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-69" value="&lt;div style=&quot;text-align: left&quot;&gt;渠道登录失败,流失率达：6%&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="549" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-71" target="cDy8AX9yw4xQvKXLvTY8-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-71" value="聚合层开始登陆&lt;br&gt;总数:5379" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="709" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-73" target="cDy8AX9yw4xQvKXLvTY8-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="cDy8AX9yw4xQvKXLvTY8-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="869" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-73" target="cDy8AX9yw4xQvKXLvTY8-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-73" value="聚合层登陆发起网络请求&lt;br&gt;总数:5318" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="799" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-74" target="cDy8AX9yw4xQvKXLvTY8-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-74" value="聚合层登陆成功&lt;br&gt;总数:5290" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="889" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-78" value="聚合层登陆失败&lt;br&gt;总数:20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="889" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-82" value="聚合层服务器接收到的请求&lt;br&gt;总数:5563" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="799" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-84" target="cDy8AX9yw4xQvKXLvTY8-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-84" target="cDy8AX9yw4xQvKXLvTY8-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-84" value="客户端向游戏发起登陆请求&lt;br&gt;总数:5292" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="979" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-86" value="成功进入游戏&lt;br&gt;总数:5178" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="1069" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-88" value="客户端上报进入游戏失败&lt;br&gt;总数:5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1069" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-90" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="999" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-91" value="游戏客户端进入游戏,流失次数:109&lt;br&gt;流失率:2%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1019" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDy8AX9yw4xQvKXLvTY8-93" target="cDy8AX9yw4xQvKXLvTY8-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy8AX9yw4xQvKXLvTY8-93" value="渠道sdk初始化,服务器接收到的请求&lt;br&gt;总数:5673" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="420" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
