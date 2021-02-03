@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T04:00:00.412Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="_j44H7m9Qt1GOvQD4QvW" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T04:04:15.716Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3756.400 QQBrowser/10.5.4039.400" etag="Q7F9uXldsgTOJjJ1YZz5" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1381" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="285" y="430" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Vjf7NnYEk90J9PH0Oi4-25" value="&lt;div style=&quot;text-align: left&quot;&gt;初始化失败率:2%&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="675" y="370" width="105" height="90" as="geometry" />
+          <mxGeometry x="497.5" y="530" width="105" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1Vjf7NnYEk90J9PH0Oi4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Vjf7NnYEk90J9PH0Oi4-27" target="1Vjf7NnYEk90J9PH0Oi4-31">
           <mxGeometry relative="1" as="geometry" />
@@ -111,6 +111,18 @@
         </mxCell>
         <mxCell id="1Vjf7NnYEk90J9PH0Oi4-56" value="设备角度,初始化失败率为:6%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="86.87" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vjf7NnYEk90J9PH0Oi4-59" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="239.99" width="20" height="229.99" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vjf7NnYEk90J9PH0Oi4-60" value="渠道SDK登陆,实际流失:286,流失率:6%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vjf7NnYEk90J9PH0Oi4-61" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="50" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1Vjf7NnYEk90J9PH0Oi4-62" value="聚合层初始化&lt;br&gt;实际流失:45,流失率：1%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="105" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
